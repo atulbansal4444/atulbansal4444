@@ -2,7 +2,7 @@
 
 I am Atul. I am a Udacity NanoDegree Holder in iOS Development and a Full Stack Web skilled in React.js, java always seek new things in this vast world of technology because of great interest in the field of computers and always try to learn new ideas for self and organisational growth.
 
-- I’m currently working as an Software Engineer
+- I’m currently working as an Software Engineer at Temenos || Ex-Kony
 - How to reach me **atulbansal4444@gmail.com**
 
 ## ⚡ Social Profiles
