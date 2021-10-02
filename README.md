@@ -8,8 +8,6 @@ I am Atul. I am a Udacity NanoDegree Holder in iOS Development and a Full Stack 
 ## ⚡ Social Profiles
 
 [![Linkedin Badge](https://img.shields.io/badge/-atulbansal4444-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atul-bansal-294777175/)](https://www.linkedin.com/in/atul-bansal-294777175/)
-<!-- [![Medium Badge](https://img.shields.io/badge/-@aryankush25-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aryankush25/)](https://medium.com/@aryankush25) -->
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@aryankush25-15202B?style=flat-square&labelColor=white&logo=Twitter&link=https://twitter.com/aryankush25)](https://twitter.com/aryankush25) -->
 
 ## ⚡ Technologies
 
@@ -22,6 +20,7 @@ I am Atul. I am a Udacity NanoDegree Holder in iOS Development and a Full Stack 
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Jira](https://img.shields.io/badge/-jira-black?style=flat-square&logo=jira)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
+![Java](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=java)
 
 ## ⚡ Top Languages
 
