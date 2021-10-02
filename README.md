@@ -8,7 +8,7 @@ I am Atul Bansal. I am a Udacity NanoDegree Holder in iOS Development and a Full
 ## ⚡ Social Profiles
 
 [![Linkedin Badge](https://img.shields.io/badge/-atulbansal4444-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atul-bansal-294777175/)](https://www.linkedin.com/in/atul-bansal-294777175/)
-[![GeeksForGeeks Badge](https://img.shields.io/badge/-atulbansal-blue?style=flat-square&logo=geeksforgeeks&logoColor=green&link=https://auth.geeksforgeeks.org/user/atulbansal1/profile)](https://auth.geeksforgeeks.org/user/atulbansal1/profile)
+[![GeeksForGeeks Badge](https://img.shields.io/badge/-atulbansal-white?style=flat-square&logo=geeksforgeeks&logoColor=green&link=https://auth.geeksforgeeks.org/user/atulbansal1/profile)](https://auth.geeksforgeeks.org/user/atulbansal1/profile)
 
 ## ⚡ Technologies
 
