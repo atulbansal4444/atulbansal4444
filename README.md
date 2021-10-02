@@ -11,16 +11,22 @@ I am Atul. I am a Udacity NanoDegree Holder in iOS Development and a Full Stack 
 
 ## ⚡ Technologies
 
+#### ⚡ Languages
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+#### ⚡ version control system
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Jira](https://img.shields.io/badge/-jira-black?style=flat-square&logo=jira)
+
+#### ⚡ Operating system
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
+![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=macos)
 
 
 ## ⚡ Top Languages
