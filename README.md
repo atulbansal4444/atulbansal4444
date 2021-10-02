@@ -9,7 +9,7 @@ I am Atul Bansal. I am a Udacity NanoDegree Holder in iOS Development and a Full
 
 [![Linkedin Badge](https://img.shields.io/badge/-atulbansal4444-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atul-bansal-294777175/)](https://www.linkedin.com/in/atul-bansal-294777175/)
 [![GeeksForGeeks Badge](https://img.shields.io/badge/-atulbansal-white?style=flat-square&logo=geeksforgeeks&logoColor=green&link=https://auth.geeksforgeeks.org/user/atulbansal1/profile)](https://auth.geeksforgeeks.org/user/atulbansal1/profile)
-
+[![HackerRank Badge](https://img.shields.io/badge/-atulbansal4444-blue?style=flat-square&logo=hackerrank&link=https://www.hackerrank.com/atulbansal4444)](https://www.hackerrank.com/atulbansal4444)
 ## ⚡ Technologies
 
 I have worked on various technologies. Have good knowledge on java and has worked on the backend for more than 2 year. Changing the API query params and adding logic in api to return more info in the response. Have on the frontend side as well creating small components for react and showing some UI using html5 and CSS.
