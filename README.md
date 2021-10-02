@@ -26,8 +26,7 @@ I am Atul. I am a Udacity NanoDegree Holder in iOS Development and a Full Stack 
 
 #### ⚡ Operating system
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
-![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=macos)
-[![macos-catalina](https://img.shields.io/badge/macos-catalina-brightgreen.svg)](https://www.apple.com/macos/catalina-preview)
+![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple)
 
 
 
