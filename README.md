@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Atul Bansal </h1>
+
+
 I am Atul Bansal. I am a Udacity NanoDegree Holder in iOS Development and a Full-Stack Developer skilled in React.js and java. Always seek new things in this vast world of technology because of great interest in the field of computers and always try to learn new ideas for self and organisational growth.
 
 - I’m currently working as an Software Engineer at Temenos || Ex-Kony
