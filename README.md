@@ -17,7 +17,7 @@ I am a Udacity NanoDegree Holder in iOS Development and a Full-Stack Developer s
 I have worked on various technologies. Have good knowledge on java and has worked on the backend for more than 2 year. Changing the API query params and adding logic in api to return more info in the response. Have on the frontend side as well creating small components for react and showing some UI using html5 and CSS.
 Have worked on javascript for some logic to do some checks and validations for the saving of verbs i.e for successful save. Use jira for tracking the work and bitbucket for raise the pull request of the changes done. Done some good code reviews as well as written UTs and E2e tests for the feature added by me. Handled whole automation for which I won Spot Award. Have Worked on the MF Commandline use by Temenos | kony for performing the tasks that can be done by UI of fabric.
 
-#### ⚡ Languages
+## ⚡ Languages
 
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
