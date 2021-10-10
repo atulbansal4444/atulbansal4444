@@ -8,7 +8,7 @@ I am a Udacity NanoDegree Holder in iOS Development and a Full-Stack Developer s
 
 ## ⚡ Social Profiles
 
-[![Linkedin Badge](https://img.shields.io/badge/-atul-bansal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atul-bansal-294777175/)](https://www.linkedin.com/in/atul-bansal-294777175/)
+[![Linkedin Badge](https://img.shields.io/badge/-AtulBansal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atul-bansal-294777175/)](https://www.linkedin.com/in/atul-bansal-294777175/)
 [![GeeksForGeeks Badge](https://img.shields.io/badge/-atulbansal-white?style=flat-square&logo=geeksforgeeks&logoColor=green&link=https://auth.geeksforgeeks.org/user/atulbansal1/profile)](https://auth.geeksforgeeks.org/user/atulbansal1/profile)
 [![HackerRank Badge](https://img.shields.io/badge/-atulbansal4444-white?style=flat-square&logoColor=black&logo=hackerrank&link=https://www.hackerrank.com/atulbansal4444)](https://www.hackerrank.com/atulbansal4444)
 
