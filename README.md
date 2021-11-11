@@ -13,8 +13,12 @@ I am a Udacity NanoDegree Holder in iOS Development and a Full-Stack Developer s
 [![HackerRank Badge](https://img.shields.io/badge/-AtulBansal4444-white?style=flat-square&logoColor=black&logo=hackerrank&link=https://www.hackerrank.com/atulbansal4444)](https://www.hackerrank.com/atulbansal4444)
 [![Resume Badge](https://img.shields.io/badge/-Atul.Bansal.Resume-blue?style=flat-square&link=https://atulbansal4444.github.io/resume/)](https://atulbansal4444.github.io/resume/)
 
-I have worked on various technologies. Have good knowledge on java and has worked on the backend for more than 2 year. Changing the API query params and adding logic in api to return more info in the response. Have on the frontend side as well creating small components for react and showing some UI using html5 and CSS.
-Have worked on javascript for some logic to do some checks and validations for the saving of verbs i.e for successful save. Use jira for tracking the work and bitbucket for raise the pull request of the changes done. Done some good code reviews as well as written UTs and E2e tests for the feature added by me. Handled whole automation for which I won Spot Award. Have Worked on the MF Commandline use by Temenos | kony for performing the tasks that can be done by UI of fabric.
+* I have worked on various technologies. Have good knowledge on java and has worked on the backend for more than 2 year.
+* Creatiing Restfull APIs, handing the JSON data and working with XML.
+* Creating multiple usable components in React.js, Angular and JS.
+* Use jira for tracking the work and bitbucket for raise the pull request of the changes done. 
+* Done some good code reviews as well as written UTs and E2e tests for the feature added by me.
+* Have Worked on the MF Commandline use by Temenos | Kony for performing the API calls that are used by Fabric in Temenos.
 
 ## ⚡ Languages & Technologies
 
@@ -35,6 +39,12 @@ Have worked on javascript for some logic to do some checks and validations for t
 
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple)
+
+## ⚡ ACHIEVEMENTS
+
+* Spot Award (2 Times) - For owning the Nighthawk Component for console, and bringing the test failures to 0.
+* Global Recognition Award (2 Times) - This award is given quarterly to 10 teams globally based on the feature added to the product.
+* Lee's Code - Won 1st prize in coding competition in college.
 
 
 
