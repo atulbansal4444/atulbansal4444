@@ -27,6 +27,7 @@ I am a Udacity NanoDegree Holder in iOS Development and a Full-Stack Developer s
 ![React.Js](https://img.shields.io/badge/-React.Js-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![AXIOS](https://img.shields.io/badge/-AXIOS-purple?style=flat-square&logo=axios)
 
 #### ⚡ Version Control System
 
@@ -52,7 +53,6 @@ I am a Udacity NanoDegree Holder in iOS Development and a Full-Stack Developer s
 
 [![Atul's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atulbansal4444&layout=compact&hide=html)](https://github.com/atulbansal4444)
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulbansal4444&layout=compact&hide=html" alt="Atul Bansal Top Langs" /></p><br> -->
 
 ## ⚡ Wakatime Stats
 
