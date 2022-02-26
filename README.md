@@ -3,7 +3,7 @@
 
 I am a Udacity NanoDegree Holder in iOS Development and a Full-Stack Developer skilled in React.js and java. Always seek new things in this vast world of technology because of great interest in the field of computers and always try to learn new ideas for self and organisational growth.
 
-- I’m currently working as an Software Engineer at Temenos/Kony
+- I’m currently working as an Software Engineer at PegaSystems
 - How to reach me **atulbansal4444@gmail.com**
 
 ## ⚡ Social Profiles
