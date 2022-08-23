@@ -47,6 +47,7 @@ I am a Udacity NanoDegree Holder in iOS Development and a Full-Stack Developer s
 * Spot Award (2 Times) - For owning the Nighthawk Component for console, and bringing the test failures to 0.
 * Global Recognition Award (2 Times) - This award is given quarterly to 10 teams globally based on the feature added to the product.
 * Lee's Code - Won 1st prize in coding competition in college.
+* Real Time Recogonisation - For converting the rubyonrails page to node.
 
 
 
