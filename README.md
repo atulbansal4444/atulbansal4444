@@ -41,6 +41,8 @@ I am a Udacity NanoDegree Holder in iOS Development and a Full-Stack Developer s
 
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
 ## ⚡ ACHIEVEMENTS
 
