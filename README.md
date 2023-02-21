@@ -58,7 +58,7 @@ I am a Udacity NanoDegree Holder in iOS Development and a Full-Stack Developer s
 
 ## ⚡ Wakatime Stats
 
-[![Atul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atulbansal4444)](https://github.com/atulbansal4444)
+[![Atul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atulbansal4444)]([https://github.com/atulbansal4444](https://wakatime.com/dashboard)
 
 ## ⚡ Holopin Badges
 
