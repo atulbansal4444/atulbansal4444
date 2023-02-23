@@ -69,6 +69,6 @@ I am a Udacity NanoDegree Holder in iOS Development and a Full-Stack Developer s
 
 ## ⚡ Visitors
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=atulbansal4444.atulbansal4444)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=atulbansal4444.atulbansal4444) -->
 
 
