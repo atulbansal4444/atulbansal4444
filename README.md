@@ -55,7 +55,7 @@ I am a Udacity NanoDegree Holder in iOS Development and a Full-Stack Developer s
 
 ## ⚡ Top Languages
 
-[![Atul's  Language Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=atulbansal4444&layout=compact&hide=html)](https://github.com/atulbansal4444)
+[![Atul's  Language Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=atulbansal4444&layout=compact&hide=swift)](https://github.com/atulbansal4444)
 
 
 ## ⚡ Wakatime Stats
