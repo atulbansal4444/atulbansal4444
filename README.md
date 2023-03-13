@@ -64,11 +64,9 @@ I am a Udacity NanoDegree Holder in iOS Development and a Full-Stack Developer s
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime/?&username=atulbansal4444&layout=compact&link=https://wakatime.com/@atulbansal4444"> -->
 
 ## ⚡ Holopin Badges
-
 [![@atulbansal4444's Holopin board](https://holopin.io/api/user/board?user=atulbansal4444)](https://holopin.io/@atulbansal4444)
 
 ## ⚡ Visitors
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=atulbansal4444.atulbansal4444)
 
 ## ⚡ Git Stats
