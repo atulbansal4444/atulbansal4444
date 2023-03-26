@@ -66,6 +66,9 @@ I am a Udacity NanoDegree Holder in iOS Development and a Full-Stack Developer s
 ## ⚡ Holopin Badges
 [![@atulbansal4444's Holopin board](https://holopin.io/api/user/board?user=atulbansal4444)](https://holopin.io/@atulbansal4444)
 
+## ⚡ Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=atulbansal4444)](https://github.com/atulbansal4444/github-profile-trophy)
+
 ## ⚡ Visitors
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=atulbansal4444.atulbansal4444)
 
