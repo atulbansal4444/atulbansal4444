@@ -72,6 +72,9 @@ I am a Udacity NanoDegree Holder in iOS Development and a Full-Stack Developer s
 ## ⚡ Visitors
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=atulbansal4444.atulbansal4444)
 
+## ⚡ Streak stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atulbansal4444&" alt="atulbansal4444" /></p>
+
 ## ⚡ Git Stats
 
 ![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=atulbansal4444&show_icons=true&theme=transparent)
