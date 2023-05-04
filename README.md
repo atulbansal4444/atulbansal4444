@@ -70,6 +70,7 @@ I am a Udacity NanoDegree Holder in iOS Development and a Full-Stack Developer s
 * Global Recognition Award (2 Times) - This award is given quarterly to 10 teams globally based on the feature added to the product.
 * Lee's Code - Won 1st prize in coding competition in college.
 * Real Time Recogonisation - For converting the rubyonrails page to node.
+* Won Amazon Voucher on taking part in ChatGPT Hackathon. (For filtering the data which chatGPT will read and give response based on the ask.)
 
 
 
