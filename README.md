@@ -8,10 +8,10 @@ I am a Udacity NanoDegree Holder in iOS Development and a Full-Stack Developer s
 
 ## ⚡ Social Profiles
 
-[![Linkedin Badge](https://img.shields.io/badge/-AtulBansal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atul-bansal-294777175/)](https://www.linkedin.com/in/atul-bansal-294777175/)
-[![GeeksForGeeks Badge](https://img.shields.io/badge/-AtulBansal-white?style=flat-square&logo=geeksforgeeks&logoColor=green&link=https://auth.geeksforgeeks.org/user/atulbansal1/profile)](https://auth.geeksforgeeks.org/user/atulbansal1/profile)
-[![HackerRank Badge](https://img.shields.io/badge/-AtulBansal4444-white?style=flat-square&logoColor=black&logo=hackerrank&link=https://www.hackerrank.com/atulbansal4444)](https://www.hackerrank.com/atulbansal4444)
-[![Resume Badge](https://img.shields.io/badge/-Atul.Bansal.Resume-blue?style=flat-square&link=https://atulbansal4444.github.io/resume/)](https://atulbansal4444.github.io/resume/)
+[![Linkedin Badge](https://img.shields.io/badge/-Atul_Bansal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atul-bansal-294777175/)](https://www.linkedin.com/in/atul-bansal-294777175/)
+[![GeeksForGeeks Badge](https://img.shields.io/badge/-Atul_Bansal-white?style=flat-square&logo=geeksforgeeks&logoColor=green&link=https://auth.geeksforgeeks.org/user/atulbansal1/profile)](https://auth.geeksforgeeks.org/user/atulbansal1/profile)
+[![HackerRank Badge](https://img.shields.io/badge/-Atul_Bansal-white?style=flat-square&logoColor=black&logo=hackerrank&link=https://www.hackerrank.com/atulbansal4444)](https://www.hackerrank.com/atulbansal4444)
+[![Resume Badge](https://img.shields.io/badge/-Atul_Bansal's_Resume-blue?style=flat-square&link=https://atulbansal4444.github.io/resume/)](https://atulbansal4444.github.io/resume/)
 
 * I have worked on various technologies. Have good knowledge on java and has worked on the backend for more than 2 year.
 * Creatiing Restfull APIs, handing the JSON data and working with XML.
